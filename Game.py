@@ -84,11 +84,6 @@ def _init(size, p=.5, shape="Random"):
 
 
 
-
-
-
-
-
 inital_prob = 0.7
 life = _init((32,32), inital_prob,5)
 
